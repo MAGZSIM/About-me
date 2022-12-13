@@ -6,5 +6,5 @@
 1. I love Girl
 - __I like Live__
 3. *I have a dog*
--  $I$ $like$ $hot$ $weather$
-5. `I'm a student` [Netology.ru](https://netology.ru)
+-  `I like hot weather`
+5. I'm a student [Netology.ru](https://netology.ru)
